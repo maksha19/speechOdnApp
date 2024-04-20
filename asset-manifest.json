@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/speechOdnApp/static/css/main.f6b1fc60.css",
-    "main.js": "/speechOdnApp/static/js/main.0b9c0c6b.js",
+    "main.js": "/speechOdnApp/static/js/main.2215273a.js",
     "static/js/453.313ac021.chunk.js": "/speechOdnApp/static/js/453.313ac021.chunk.js",
     "index.html": "/speechOdnApp/index.html",
     "main.f6b1fc60.css.map": "/speechOdnApp/static/css/main.f6b1fc60.css.map",
-    "main.0b9c0c6b.js.map": "/speechOdnApp/static/js/main.0b9c0c6b.js.map",
+    "main.2215273a.js.map": "/speechOdnApp/static/js/main.2215273a.js.map",
     "453.313ac021.chunk.js.map": "/speechOdnApp/static/js/453.313ac021.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6b1fc60.css",
-    "static/js/main.0b9c0c6b.js"
+    "static/js/main.2215273a.js"
   ]
 }
